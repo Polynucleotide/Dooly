@@ -38,7 +38,7 @@
 
 ### Aymara Healer
   - Important to keep **Aymara Healer** when you think you will be taking big damage as it keeps you healthy in the late game.
-  In the late game, when your might be low in health, **Aymara Healer** serves as a big threat as it deals 5 damage to them upon its death.
+  In the late game, when your opponent might be low in health, **Aymara Healer** serves as a big threat as it deals 5 damage to them upon its death.
   Recommended to keep this when against **Abyssian** as they do not have Transformation spells which means they have to trigger **Aymara Healer's** Dying Wish.
   Also recommended to keep this against **Magmar**.
   As long as they do not having cards like **Thumping Wave**, they'd have to think twice before using **Natural Selection** or **Homeostatic Rebuke**.
